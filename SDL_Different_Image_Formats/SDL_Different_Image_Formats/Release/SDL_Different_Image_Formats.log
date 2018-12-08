@@ -1,0 +1,8 @@
+﻿  Main.cpp
+e:\open_source\demo\sdl_different_image_formats\sdl_different_image_formats\main.cpp(49): warning C4806: “&”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+  正在生成代码
+  8 of 68 functions (11.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  SDL_Different_Image_Formats.vcxproj -> E:\open_source\demo\SDL_Different_Image_Formats\Release\SDL_Different_Image_Formats.exe

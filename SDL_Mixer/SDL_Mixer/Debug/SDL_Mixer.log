@@ -1,0 +1,11 @@
+﻿  Main.cpp
+e:\open_source\demo\sdl_mixer\sdl_mixer\main.cpp(73): warning C4806: “&”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+e:\open_source\demo\sdl_mixer\sdl_mixer\main.cpp(128): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+e:\open_source\demo\sdl_mixer\sdl_mixer\main.cpp(131): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+e:\open_source\demo\sdl_mixer\sdl_mixer\main.cpp(134): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+e:\open_source\demo\sdl_mixer\sdl_mixer\main.cpp(137): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+e:\open_source\demo\sdl_mixer\sdl_mixer\main.cpp(160): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+e:\open_source\demo\sdl_mixer\sdl_mixer\main.cpp(162): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+e:\open_source\demo\sdl_mixer\sdl_mixer\main.cpp(164): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+e:\open_source\demo\sdl_mixer\sdl_mixer\main.cpp(166): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+  SDL_Mixer.vcxproj -> E:\open_source\demo\SDL_Mixer\Debug\SDL_Mixer.exe

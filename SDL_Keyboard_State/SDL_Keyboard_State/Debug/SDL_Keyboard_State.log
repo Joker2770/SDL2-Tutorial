@@ -1,0 +1,7 @@
+﻿  Main.cpp
+e:\open_source\demo\sdl_keyboard_state\sdl_keyboard_state\main.cpp(64): warning C4806: “&”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+e:\open_source\demo\sdl_keyboard_state\sdl_keyboard_state\main.cpp(98): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+e:\open_source\demo\sdl_keyboard_state\sdl_keyboard_state\main.cpp(101): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+e:\open_source\demo\sdl_keyboard_state\sdl_keyboard_state\main.cpp(104): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+e:\open_source\demo\sdl_keyboard_state\sdl_keyboard_state\main.cpp(107): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+  SDL_Keyboard_State.vcxproj -> E:\open_source\demo\SDL_Keyboard_State\Debug\SDL_Keyboard_State.exe

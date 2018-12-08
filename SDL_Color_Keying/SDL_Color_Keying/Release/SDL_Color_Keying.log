@@ -1,0 +1,16 @@
+﻿  Main.cpp
+e:\open_source\demo\sdl_color_keying\sdl_color_keying\main.cpp(71): warning C4806: “&”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+e:\open_source\demo\sdl_color_keying\sdl_color_keying\main.cpp(118): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+e:\open_source\demo\sdl_color_keying\sdl_color_keying\main.cpp(121): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+e:\open_source\demo\sdl_color_keying\sdl_color_keying\main.cpp(124): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+e:\open_source\demo\sdl_color_keying\sdl_color_keying\main.cpp(127): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+e:\open_source\demo\sdl_color_keying\sdl_color_keying\main.cpp(136): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+e:\open_source\demo\sdl_color_keying\sdl_color_keying\main.cpp(138): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+e:\open_source\demo\sdl_color_keying\sdl_color_keying\main.cpp(140): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+e:\open_source\demo\sdl_color_keying\sdl_color_keying\main.cpp(142): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码
+  68 of 68 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  SDL_Color_Keying.vcxproj -> E:\open_source\demo\SDL_Color_Keying\Release\SDL_Color_Keying.exe
