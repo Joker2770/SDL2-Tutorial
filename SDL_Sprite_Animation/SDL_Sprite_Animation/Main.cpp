@@ -66,8 +66,8 @@ int main(int argc, char *argv[])
 
 	SDL_QueryTexture(currentImage, NULL, NULL, &textureWidth, &textureHeight);
 
-	frameWidth = textureWidth / 4;
-	frameHeight = textureHeight ;
+	frameWidth = textureWidth / 20;
+	frameHeight = textureHeight;
 
 	playerRect.x = playerRect.y = 0;
 	playerRect.w = frameWidth;
@@ -86,7 +86,7 @@ int main(int argc, char *argv[])
 		}
 		frameTime++;
 
-		if (FPS / frameTime == 0.08)
+		if (FPS / frameTime == 0.32)
 		{
 			frameTime = 0;
 			playerRect.x += frameWidth;

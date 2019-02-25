@@ -23,7 +23,7 @@
     <ProjectGuid>{35b1aa01-41c2-4fbb-bbf1-ae5a604a12cd}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>SDL_Sprite_Animation</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
